@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56a43350-619b-48eb-a6a0-86e2bb507720" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herencia1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="56a43350-619b-48eb-a6a0-86e2bb507720" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Latitude/Documents/BRYAN/ESTUDIOS/POO/herencia1",
+    "last_opened_file_path": "C:/Users/Latitude/Documents/BRYAN/ESTUDIOS/POO/javafx1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +52,7 @@
       <updated>1685998942295</updated>
       <workItem from="1685998943564" duration="367000" />
       <workItem from="1685999457236" duration="255000" />
+      <workItem from="1685999738184" duration="694000" />
     </task>
     <servers />
   </component>
